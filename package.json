@@ -1,6 +1,6 @@
 {
   "name": "dropbox-auth-cli",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Fetch the access token of your Dropbox Platform app from the command line",
   "main": "index.js",
   "scripts": {
