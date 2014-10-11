@@ -1,0 +1,37 @@
+{
+  "name": "dropbox-auth-cli",
+  "version": "0.0.0",
+  "description": "Fetch the access token of your Dropbox Platform app from the command line",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "dropbox-auth": "./bin.js"
+  },
+  "author": "Thomas Watson Steen <w@tson.dk>",
+  "keywords": [
+    "dropbox",
+    "oauth",
+    "auth",
+    "token",
+    "cli"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "debug": "^2.0.0",
+    "inquirer": "^0.8.0",
+    "mkdirp": "^0.5.0",
+    "opn": "^1.0.0",
+    "untildify": "^1.0.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/watson/dropbox-auth-cli.git"
+  },
+  "bugs": {
+    "url": "https://github.com/watson/dropbox-auth-cli/issues"
+  },
+  "homepage": "https://github.com/watson/dropbox-auth-cli"
+}
