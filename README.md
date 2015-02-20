@@ -9,7 +9,7 @@ If you want to work with the Dropbox API, you need an access token.
 Access tokens are tied to Dropbox Platform apps, so you first need to
 register your app as a Dropbox Platform app:
 
-[https://www.dropbox.com/developers/apps/create]()
+[https://www.dropbox.com/developers/apps/create](https://www.dropbox.com/developers/apps/create)
 
 ## Installation
 
